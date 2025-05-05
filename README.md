@@ -27,7 +27,7 @@ C:\Windows\System32\cmd.exe
 
 ## control文件  （默认放在  D:\backups\control\  下）无后缀
 创建方法：右键-新建-新建文本文档-把文件连同后缀一起删除
-（没有后缀.txt？ 教程：https://cn.bing.com/search?q=windows%E5%A6%82%E4%BD%95%E6%98%BE%E7%A4%BA%E5%90%8E%E7%BC%80 ）
+（没有后缀.txt？ [教程](https://cn.bing.com/search?q=windows%E5%A6%82%E4%BD%95%E6%98%BE%E7%A4%BA%E5%90%8E%E7%BC%80 "教程") ）
 
 支持的control文件：
 end     表示结束
