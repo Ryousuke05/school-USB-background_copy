@@ -12,8 +12,11 @@ U盘插入后没复制，没反应？看到本文档最底部
 （对有杀毒软件）可能需要添加白名单列表：
 
 C:\Windows\System32\xcopy.exe
+
 C:\Windows\System32\cmd.exe
+
 （本目录）\点我静默运行.exe
+
 （本目录）\code.bat
 
 运行时会在桌面上创建seewo文件夹（默认）表示已启动，
